@@ -5,7 +5,7 @@ U repozitoriju je implementiran SELDnet model za skup podataka snimljenog tetrae
 
 Skup podataka se može preuzeti na linku: [Sony-TAu Realistic Spatial Soundscapes 2023 (STARSS23)](https://zenodo.org/records/7709052). Potrebno je pruzeti MIC skup podataka.
 
-- parameters.py sadrži sve postavljene parametere za podatke, značajke i model. Putanju do skupa podataka je potrebno ovdje staviti kao i putanju do direktorija u koji će se spremati obrađeni podaci. 
+- parameters.py sadrži sve postavljene parametere za podatke, značajke i model. Putanju do skupa podataka je potrebno ovdje postaviti kao i putanju do direktorija u koji će se spremati obrađeni podaci. 
 
 - optimization.py implementira Bayesovu optimizaciju pomoću Optuna biblioteke. Svi parametri optimizacije su prilagodljivi.
 
