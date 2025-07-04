@@ -9,7 +9,7 @@ Skup podataka se može preuzeti na linku: [Sony-TAu Realistic Spatial Soundscape
 
 - optimization.py implementira Bayesovu optimizaciju pomoću Optuna biblioteke. Svi parametri optimizacije su prilagodljivi.
 
-### Process:
+### Proces:
 1. Za izdvajanje značajki iz skupa podataka:
 
 `python3 batch_feature_extraction.py`
